@@ -37,7 +37,7 @@
 - 💡 I’m looking to collaborate on exciting AI/ML projects.
 - 💬 Ask me about `Python, Machine Learning, Data Science`
 - 📫 How to reach me: [shreyasshashikantpai@gmail.com]
-- 🔗 I have currently worked on  **[MoodTunes](https://github.com/shreyaspai-2005/MoodTunes)** mini project.
+- 🔗 I with my team have currently worked on  **[MoodTunes](https://github.com/shreyaspai-2005/MoodTunes)** mini project.
 - ☕ Support my projects on `Buy me a Coffee`: [Support Me!! :)](https://coff.ee/shreyaspai2005)
 
 ---
