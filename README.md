@@ -31,7 +31,7 @@
 
 ---
 
-- 🧑‍💻 I am a `2nd year AIML student` at `NHCE Bengaluru`.
+- 🧑‍💻 I am a `3rd year AIML student` at `NHCE Bengaluru`.
 - ✨ I'm currently delving deeper into `Machine Learning` and `Deep Learning` concepts.
 - 🌱 I’m currently learning more about **Reinforcement Learning**, **NLP**, **Sentiment Analysis**, and all.
 - 💡 I’m looking to collaborate on exciting AI/ML projects.
